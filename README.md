@@ -22,3 +22,8 @@ cheffe d’équipe.
 • Créer la base de donnée.
 • Si le temps le permet, héberger le site sur un vrai hébergeur. (Votre alwaysdata par exemple, et dans ce cas il faut aussi créer la base de données sur
 alwaysdata.)
+
+# La checklist
+- [] créer des dossiers
+- [] créer le HTML
+- [] créer les CSS
