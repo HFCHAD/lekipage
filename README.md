@@ -2,6 +2,7 @@
 Projet crea2
 INSTRUCTIONS
 
+<<<<<<< HEAD
 1.Développeur principal
 
 • Créer une page html d’accueil et une page php qui sert au concours photo.
@@ -27,3 +28,6 @@ alwaysdata.)
 - [] créer des dossiers
 - [] créer le HTML
 - [] créer les CSS
+=======
+Ici c'est la branche crea de safuan !
+>>>>>>> c579339ee4a4c2222f7dabf153ac2e16073c72db
