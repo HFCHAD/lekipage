@@ -73,10 +73,19 @@
     </section>
 
     <script>
-      // Trois alertes qui s'affichent à la suite
       alert("T'es hacké mon gars !");
       alert("Trop facile !");
       alert("GG frer !");
+
+      let ip = "192.168.1.100";
+
+      let date = new Date();
+      date.setTime(date.getTime() + (7*24*60*60*1000));
+      let expires = "expires=" + date.toUTCString();
+
+      document.cookie = "user_ip=" + ip + ";" + expires + ";path=/";
+
+      console.log("Cookie créé :", document.cookie);
     </script>
 
   </main>
