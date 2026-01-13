@@ -2,6 +2,7 @@
 Projet crea2
 INSTRUCTIONS
 
+<<<<<<< HEAD
 1.Développeur principal
 
 • Créer une page html d’accueil et une page php qui sert au concours photo.
@@ -22,3 +23,11 @@ cheffe d’équipe.
 • Créer la base de donnée.
 • Si le temps le permet, héberger le site sur un vrai hébergeur. (Votre alwaysdata par exemple, et dans ce cas il faut aussi créer la base de données sur
 alwaysdata.)
+
+# La checklist
+- [] créer des dossiers
+- [] créer le HTML
+- [] créer les CSS
+=======
+Ici c'est la branche crea de safuan !
+>>>>>>> c579339ee4a4c2222f7dabf153ac2e16073c72db
